@@ -1,0 +1,27 @@
+{
+  "name": "@kj/mp-cli",
+  "version": "0.0.1",
+  "description": "微信小程序脚手架,自动生成项目结构",
+  "main": "main.js",
+  "repository": "https://github.com/iamwangkj/kj-mp-cli.git",
+  "author": "wangkj <ne.wkj@qq.com>",
+  "license": "MIT",
+  "bin": {
+    "mp-cli": "main.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
