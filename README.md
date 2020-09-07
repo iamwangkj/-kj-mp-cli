@@ -1,2 +1,2 @@
-# -kj-mp-cli
+# mp-cli
 A miniprogram cli

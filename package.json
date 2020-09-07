@@ -1,13 +1,13 @@
 {
-  "name": "@kj/mp-cli",
-  "version": "0.0.1",
-  "description": "微信小程序脚手架,自动生成项目结构",
+  "name": "mp-cli",
+  "version": "0.0.2",
+  "description": "项目生成器",
   "main": "main.js",
   "repository": "https://github.com/iamwangkj/kj-mp-cli.git",
   "author": "wangkj <ne.wkj@qq.com>",
   "license": "MIT",
   "bin": {
-    "mp-cli": "main.js"
+    "kj-cli": "main.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",

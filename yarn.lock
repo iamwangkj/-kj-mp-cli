@@ -39,6 +39,17 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@iamwangkj/mp-cli@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@iamwangkj/mp-cli/-/mp-cli-0.0.1.tgz#64b6392c2c5a203e42e0d3921928d532415bbdd6"
+  integrity sha512-9Ptz2U3V91rvjZSYZZkR/QjK3Soc4aaTpkTpdQIJqvlqOZMyuknxENS2yz+ZRyO8U6wLznVJmKNUMdKNPmsTMw==
+  dependencies:
+    chalk "^4.1.0"
+    commander "^6.1.0"
+    download-git-repo "^3.0.2"
+    inquirer "^7.3.3"
+    ora "^5.0.0"
+
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
